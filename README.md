@@ -17,7 +17,7 @@ Esta ferramenta 🛠️ é um sistema simples desenvolvido em Python, utilizando
 2. **Execução:**
 Após configurar o ambiente, basta executar o script Python para iniciar a interface do gerador de senhas.
 
-## 💡 Ideal Para
+## 💡 Ideal
 - Clínicas
 - Farmácias
 - Bancos
